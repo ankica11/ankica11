@@ -1,7 +1,7 @@
 
 ## <p align = "center">Hi I'm Ana👋</p>
 
-### <p align="center">I'm a backend developer with a passion for .NET and C#.</p>
+### <p align="center">I'm a software engineer with a passion for .NET and C#.</p>
 <!--
 **ankica11/ankica11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
